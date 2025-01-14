@@ -1,0 +1,26 @@
+{
+    "vitals": {
+        "cvp_mmHg": 4,
+        "ppv_percent": 40,
+        "lactate_mmol_L": 2,
+        "heart_rate_bpm": 90,
+        "spo2_percent": 95,
+        "blood_pressure_mmHg": {
+            "systolic": 120,
+            "diastolic": 80
+        },
+        "map_mmHg": 80
+    },
+    "metrics": {
+        "sex": "M",
+        "age_years": 40,
+        "weight_kg": 70,
+        "height_cm": 170,
+        "medication": ["Blood thinner"]
+    },
+    "fluid_administration": {
+        "fluid_type": "Normal saline",
+        "volume_ml": 1000,
+        "time_past_hours": 1
+    }
+}
