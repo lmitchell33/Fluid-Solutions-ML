@@ -1,14 +1,13 @@
 {
+    "This is just a list of data we need to train the model" : "Find data and put in csv. Do not use subcategories",
     "vitals": {
         "cvp_mmHg": 4,
         "ppv_percent": 40,
         "lactate_mmol_L": 2,
         "heart_rate_bpm": 90,
         "spo2_percent": 95,
-        "blood_pressure_mmHg": {
-            "systolic": 120,
-            "diastolic": 80
-        },
+        "systolic_bp_mmHg" : 120,
+        "diastolic_bp_mmHg" : 80,
         "map_mmHg": 80
     },
     "metrics": {
