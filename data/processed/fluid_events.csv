@@ -1,0 +1,146 @@
+itemid,label,linksto
+225976,Replacement Fluid,chartevents
+225977,Dialysate Fluid,chartevents
+230083,Replacement Fluid (Pre-Filter),chartevents
+230084,Replacement Fluid (Post-Filter),chartevents
+225951,Peritoneal Dialysis Fluid Appearance,chartevents
+230085,Dialysate Fluid,chartevents
+228898,Impaired Fluid Balance NCP - Interventions,chartevents
+228895,Impaired Fluid Balance NCP - Goal,chartevents
+229099,Impaired Fluid Balance NCP - Problem resolved,chartevents
+229098,Impaired Fluid Balance NCP - Plan revised,chartevents
+228897,Impaired Fluid Balance NCP - Outcomes met,chartevents
+228894,Impaired Fluid Balance NCP - Expected outcomes,chartevents
+225262,Fluid removed description (PACEN),chartevents
+225247,Fluid Removed Description (THCEN),chartevents
+224499,Fluid removed (LP),chartevents
+227955,Food and Fluid,chartevents
+228380,Thoracic Fluid Content (TFC) (NICOM),chartevents
+224191,Hourly Patient Fluid Removal,chartevents
+225261,Fluid removed (PACEN),chartevents
+225246,Fluid Removed (THCEN),chartevents
+224498,Amount of fluid removed (LP),chartevents
+226089,Piggyback,inputevents
+220950,Dextrose 10%,inputevents
+225828,LR,inputevents
+220952,Dextrose 50%,inputevents
+226403,GU Irrigant - Amphotericin B,inputevents
+228142,Dextrose 40%,inputevents
+225797,Free Water,inputevents
+225163,Prismasate K4,inputevents
+225941,D5 1/4NS,inputevents
+225164,Trisodium Citrate 0.4%,inputevents
+225158,NaCl 0.9%,inputevents
+228341,NaCl 23.4%,inputevents
+225165,Bicarbonate Base,inputevents
+225161,NaCl 3% (Hypertonic Saline),inputevents
+228140,Dextrose 20%,inputevents
+225825,D5NS,inputevents
+225943,Solution,inputevents
+226402,GU Irrigant - Sterile Water,inputevents
+226363,Cath Lab Intake,inputevents
+226453,GT Flush,inputevents
+225827,D5LR,inputevents
+226375,PACU Crystalloid Intake,inputevents
+227533,Sodium Bicarbonate 8.4% (Amp),inputevents
+226452,PO Intake,inputevents
+225830,Multivitamins,inputevents
+225162,Prismasate K2,inputevents
+226364,OR Crystalloid Intake,inputevents
+225159,NaCl 0.45%,inputevents
+225944,Sterile Water,inputevents
+225823,D5 1/2NS,inputevents
+226362,ZGastric/TF Residual Intake,inputevents
+226401,GU Irrigant - Normal Saline,inputevents
+220949,Dextrose 5%,inputevents
+226361,Pre-Admission/Non-ICU Intake,inputevents
+226377,PACU PO Intake,inputevents
+228141,Dextrose 30%,inputevents
+225799,Gastric Meds,inputevents
+220959,"Saline 0,3%",inputevents
+220968,Dextrose 10% / Ringers Lactate,inputevents
+220967,Dextrose 5% / Ringers Lactate,inputevents
+221018,Nutrison Standard,inputevents
+221201,Fibrini Energy,inputevents
+220965,"Dextrose 5% / Saline 0,45%",inputevents
+221005,Vamin 14 Electrolyte free,inputevents
+221013,Whole Blood,inputevents
+221022,Nutrison Energy Multi Fibre,inputevents
+221037,Jevity 1.2,inputevents
+221199,Fresubin Energy Fibre,inputevents
+220973,Gelofusine,inputevents
+220953,Ringers,inputevents
+220964,"Dextrose 5% / Saline 0,9%",inputevents
+220975,"Pentastarch 6% (HAES, Hemohes)",inputevents
+221029,Osmolite,inputevents
+220979,"Hetastarch 6% (Saline 0,9%)",inputevents
+221020,Nutrison concentrated,inputevents
+221002,Dextran 70 / Dextrose 5% (Gentran - Macrodex - RescueFlow),inputevents
+220992,Mannitol 25%,inputevents
+221003,"Dextran 70 / Saline 0,9% (Gentran - Macrodex - RescueFlow)",inputevents
+221209,Peptisorb,inputevents
+220960,"Saline 0,45%",inputevents
+221008,Vamin Novum 18,inputevents
+221015,Ensure,inputevents
+220985,Intralipid 20%,inputevents
+221206,Novasource,inputevents
+221200,Fibrini,inputevents
+221038,Jevity,inputevents
+221196,Fresubin Original,inputevents
+221208,Normosol,inputevents
+221016,Ensure Plus,inputevents
+221027,Pulmocare,inputevents
+221021,Nutrison Energy,inputevents
+221001,"Dextran 40 / Saline 0,9% (Gentran - Rheomacrodex)",inputevents
+221198,Fresubin Energy,inputevents
+221000,Dextran 40 / Dextrose 5% (Gentran - Rheomacrodex),inputevents
+221212,"Saline 0,18%",inputevents
+221025,Pediasure,inputevents
+220977,"Pentastarch 10% (HAES, Hemohes)",inputevents
+221195,"Hexastarch 6% (Elohaes) / Saline 0,9%",inputevents
+220989,Mannitol 10%,inputevents
+221006,Vamin 18 Electrolyte free,inputevents
+221213,Saline 30%,inputevents
+220996,Packed Red Cells,inputevents
+220990,Mannitol 15%,inputevents
+220958,"Saline 0,255%",inputevents
+221007,Vamin 14 Plus electrolytes,inputevents
+221024,Nutrison Multi Fibre,inputevents
+220961,"Saline 0,65%",inputevents
+220955,Ringers Lactate,inputevents
+221009,Vivinox T.E.N.,inputevents
+221014,Dextrose 19%,inputevents
+220963,"Dextrose 4,3% / Saline 0,18%",inputevents
+220972,Octoplas,inputevents
+221204,Tentrini,inputevents
+220861,Albumin (Human) 20%,inputevents
+220865,Aquadestila,inputevents
+220991,Mannitol 20%,inputevents
+221211,"Sodium Bicarbonate 1,4%",inputevents
+220988,Mannitol 5%,inputevents
+221017,"Dextrose 2,5%",inputevents
+220951,Dextrose 20.%,inputevents
+220986,Intralipid 30%,inputevents
+221012,Vivonex Pediatric,inputevents
+221203,Nutrini,inputevents
+220954,"Saline 0,9%",inputevents
+220971,ESDEP (Solvent / Detergent Virus-Inactivated Plasma),inputevents
+220962,Saline 3%,inputevents
+221004,Thrombocyte suspension,inputevents
+221197,Fresubin Original Fibre,inputevents
+220863,Albumin (Human) 4%,inputevents
+220866,Darrow,inputevents
+221011,Vivonex Plus,inputevents
+221202,Infatrini,inputevents
+220956,Ringers Acetate,inputevents
+220969,Filtered erytrocytes,inputevents
+221210,Suplena,inputevents
+220966,"Dextrose 2,5% / Saline 0,45%",inputevents
+221028,Stresson,inputevents
+220980,Hextend (Hetastarch 6% in Lactate),inputevents
+220984,Intralipid 10%,inputevents
+221193,Auto transfusion,inputevents
+221205,Nutrison pre,inputevents
+225818,Pleural Fluid Culture,procedureevents
+225817,BAL Fluid Culture,procedureevents
+225815,Peritoneal Fluid,procedureevents

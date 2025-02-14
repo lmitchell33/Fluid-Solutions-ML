@@ -1,0 +1,34 @@
+itemid,label,linksto
+227539,ART Blood Pressure Alarm Source,chartevents
+220047,Heart Rate Alarm - Low,chartevents
+220058,Arterial Blood Pressure Alarm - High,chartevents
+220072,Central Venous Pressure Alarm - High,chartevents
+220056,Arterial Blood Pressure Alarm - Low,chartevents
+223752,Non-Invasive Blood Pressure Alarm - Low,chartevents
+220046,Heart rate Alarm - High,chartevents
+223770,O2 Saturation Pulseoxymetry Alarm - Low,chartevents
+220073,Central Venous Pressure  Alarm - Low,chartevents
+223769,O2 Saturation Pulseoxymetry Alarm - High,chartevents
+227538,ART Blood Pressure Alarm - Low,chartevents
+227537,ART Blood Pressure Alarm - High,chartevents
+223751,Non-Invasive Blood Pressure Alarm - High,chartevents
+226253,SpO2 Desat Limit,chartevents
+220277,O2 saturation pulseoxymetry,chartevents
+220074,Central Venous Pressure,chartevents
+220052,Arterial Blood Pressure mean,chartevents
+227242,Manual Blood Pressure Diastolic Right,chartevents
+220180,Non Invasive Blood Pressure diastolic,chartevents
+227243,Manual Blood Pressure Systolic Right,chartevents
+220051,Arterial Blood Pressure diastolic,chartevents
+220181,Non Invasive Blood Pressure mean,chartevents
+220045,Heart Rate,chartevents
+224643,Manual Blood Pressure Diastolic Lef223769t,chartevents
+220179,Non Invasive Blood Pressure systolic,chartevents
+220050,Arterial Blood Pressure systolic,chartevents
+224167,Manual Blood Pressure Systolic Left,chartevents
+229862,Forehead SpO2 Sensor in Place,chartevents
+220968,Dextrose 10% / Ringers Lactate,inputevents
+220967,Dextrose 5% / Ringers Lactate,inputevents
+220955,Ringers Lactate,inputevents
+220980,Hextend (Hetastarch 6% in Lactate),inputevents
+220948,Lactate (ingr),ingredientevents
