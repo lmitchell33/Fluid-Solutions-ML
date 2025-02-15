@@ -39,10 +39,10 @@ def get_fluid_inputs():
 
 
 if __name__ == "__main__":
-    features = ['central venous pressure', 'mean arterial pressure', 'spo2', 'ppv', 'blood pressure', 'heart rate', 'lactate']
+    features = ['central venous pressure', 'mean arterial pressure', 'spo2', 'ppv', 'blood pressure', 'heart rate', 'lactate', 'dialysis']
     items = get_items(features)
 
-    get_chart_events(list(items))
+    # get_chart_events(list(items))
 
     # get_items(['fluid'], output_file=f"{os.path.expanduser('~/Fluid-Solutions-ML/data/processed/fluid_events.csv')}")
     # get_chart_events(items)
