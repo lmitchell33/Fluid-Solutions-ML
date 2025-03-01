@@ -18,7 +18,7 @@ def get_items(features, input_file=None, output_file=None):
     df = pd.read_csv(file_path) 
     mask = df.apply(lambda row: any(feature in str(value).lower() for value in row for feature in features), axis=1)
     filtered_df = df[mask].drop_duplicates(subset=['itemid'])
-    filtered_df.to_csv(output_path, sep=',', index=False, header=['itemid', 'label', 'linksto'], columns=['itemid', 'label', 'linksto'], lineterminator='\n')
+    filtered_df.to_csv(output_path, sep=',', index=False, header=['itemid', 'label', 'category', 'linksto'], columns=['itemid', 'label', 'category', 'linksto'], lineterminator='\n')
 
     return filtered_df['itemid']
 
@@ -39,7 +39,10 @@ def get_fluid_inputs():
 
 
 if __name__ == "__main__":
-    features = ['central venous pressure', 'mean arterial pressure', 'spo2', 'ppv', 'blood pressure', 'heart rate', 'lactate', 'dialysis']
+    features = ['central venous pressure', 'mean arterial pressure', 'spo2', 'ppv', 
+                'blood pressure', 'heart rate', 'map', 'pulse pressure', 'cvp',
+                'oxygen saturation']
+    
     items = get_items(features)
 
     # get_chart_events(list(items))

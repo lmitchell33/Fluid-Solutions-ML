@@ -1,2 +1,4 @@
 # torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-
+scikit-learn==1.6.1
+xgboost==2.1.4
+shap==0.46.0
