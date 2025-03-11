@@ -7,7 +7,8 @@
         "systolic arterial pressure" : 120,
         "diastolic arterial pressure" : 80,
         "map_mmHg": 80,
-        "respiratory rate": 20
+        "respiratory rate": 20,
+        "I think we should consider adding temperature": 0
     },
     "Optional Vitals we could use" :{
         "temperature" : 223762
