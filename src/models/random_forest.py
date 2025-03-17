@@ -39,7 +39,6 @@ grid_search = GridSearchCV(
     param_grid=param_grid,
     scoring='accuracy',  # Metric to optimize
     cv=5,  # 5-fold cross-validation
-    n_jobs=-1  # Use all available CPU cores
 )
 
 # Perform grid search on the training data
